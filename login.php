@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="login-box">
 
-    <h2> Halaman Login</h2>
+    <h2> Login Dulu Yuk </h2>
 
     <?php if ($pesan): ?>
         <p class="error">
